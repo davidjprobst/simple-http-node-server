@@ -1,0 +1,27 @@
+{
+  "name": "bloc",
+  "version": "1.0.0",
+  "description": "Learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probstdj/react-to-do.git"
+  },
+  "keywords": [
+    "react",
+    "to-do",
+    "list",
+    "to-do",
+    "list",
+    "bloc"
+  ],
+  "author": "David Probst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probstdj/react-to-do/issues"
+  },
+  "homepage": "https://github.com/probstdj/react-to-do#readme"
+}
